@@ -1,0 +1,4 @@
+agno
+pandas
+python-dotenv
+openai
